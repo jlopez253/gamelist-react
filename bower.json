@@ -1,0 +1,8 @@
+{
+  "name": "web-app-boilerplate",
+  "private": true,
+  "dependencies": {
+    "normalize.scss": "latest"
+  },
+  "devDependencies": {}
+}
